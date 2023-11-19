@@ -1,0 +1,175 @@
+; Copyright ?Weidows.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_Tokyo Night Storm Circle Fill
+DisplayName=HighContrast-Tokyo Night Storm Circle Fill-Weidows Modified
+SetLogonBackground=0
+
+[Control Panel\Cursors]
+AppStarting=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\working.ani
+Arrow=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\normal.cur
+Crosshair=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\precision.cur
+Hand=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\link.cur
+Help=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\help.cur
+IBeam=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\text.cur
+No=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\unavailable.cur
+NWPen=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\handwriting.cur
+SizeAll=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\move.cur
+SizeNESW=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\diagonal2.cur
+SizeNS=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\vertical.cur
+SizeNWSE=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\diagonal1.cur
+SizeWE=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\horizontal.cur
+UpArrow=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\alternate.cur
+Wait=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\busy.ani
+DefaultValue=[致美化] 拉扬-白
+
+[Control Panel\Desktop]
+Wallpaper=
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=4
+WindowsSpotlight=0
+
+[VisualStyles]
+Path=%ResourceDir%\Themes\WeidowsPack\Tokyo Night Storm Circle Fill.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC42AC3DE
+AppMode=Dark
+SystemMode=Dark
+HighContrast=2
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+; SchemeName=@%SystemRoot%\System32\mmres.dll,-800
+SchemeName=STSDS-202-GenshinImpact(Monsters)
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [HilichurlEnemySpotted].wav
+[AppEvents\Schemes\Apps\.Default\AppGPFault]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 1 Woomasarakentata].wav
+[AppEvents\Schemes\Apps\.Default\CCSelect]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [ControllerNavigation].wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageDisappear DeidapoDuduWoo].wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 1 Woomasarakentata].wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageAttack 1 Sha].wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageAttack 4 Pui].wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 1 Woomasarakentata].wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 1 Woomasarakentata].wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [GeneralOpen].wav
+[AppEvents\Schemes\Apps\.Default\MenuPopup]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [MapClick].wav
+[AppEvents\Schemes\Apps\.Default\MessageNudge]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\Notification.Default]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\Notification.IM]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\Notification.Mail]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\Notification.Proximity]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageRevived OhKissMona].wav
+[AppEvents\Schemes\Apps\.Default\Notification.Reminder]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 2 Ganganwoo].wav
+[AppEvents\Schemes\Apps\.Default\Notification.SMS]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\Open]
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageRevived OhKissMona].wav
+[AppEvents\Schemes\Apps\.Default\ProximityConnection]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageReviving Wohhehehe].wav
+[AppEvents\Schemes\Apps\.Default\RestoreDown]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Windows Minimize.wav
+[AppEvents\Schemes\Apps\.Default\RestoreUp]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Windows Restore.wav
+[AppEvents\Schemes\Apps\.Default\ShowBand]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [Duang].wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageReappear Wi].wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 2 Kaeyaya].wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 1 Woomasarakentata].wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 1 Dendenden].wav
+[AppEvents\Schemes\Apps\.Default\SystemQuestion]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageEnemySpotted 3 Yayaika].wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageTaunt 4 SuperGotThatFxxkinLetsDoItEhehehOh].wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [TabClick 3].wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [AbyssMageAttacked 5 Ahh].wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [TabClick 3].wav
+[AppEvents\Schemes\Apps\Explorer\MoveMenuItem]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [ItemClick].wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [GeneralClick 2].wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [TabClick 3].wav
+
+[Slideshow]
+Interval=
+Shuffle=
+ImagesRootPath=
+
+[Control Panel\Colors]
+ActiveTitle=134 140 255
+; Background=36 36 36 桌面背景
+Background=0 0 0
+ButtonFace=36 36 36
+ButtonText=255 238 50
+GrayText=166 166 166
+Hilight=253 44 190
+HilightText=255 255 255
+HotTrackingColor=35 249 255
+InactiveTitle=166 166 166
+InactiveTitleText=0 0 0
+TitleText=0 0 0
+; Window=0 0 0
+Window=36 36 36
+WindowText=23 212 17
+Scrollbar=0 0 0
+; Menu=36 36 36
+Menu=0 0 0
+WindowFrame=255 255 255
+MenuText=255 255 255e
+ActiveBorder=255 255 0
+InactiveBorder=0 128 0
+; AppWorkspace=36 36 36
+AppWorkspace=0 0 0
+ButtonShadow=128 128 128
+ButtonHilight=192 192 192
+ButtonDkShadow=255 255 255
+ButtonLight=255 255 255
+InfoText=255 255 255
+; InfoWindow=36 36 36
+InfoWindow=0 0 0
+ButtonAlternateFace=192 192 192
+GradientActiveTitle=128 0 128
+GradientInactiveTitle=0 128 0
+MenuHilight=128 0 128
+MenuBar=0 0 0
