@@ -4,6 +4,7 @@
 ; Windows - IDS_THEME_DISPLAYNAME_Tokyo Night Storm Circle Fill
 DisplayName=HighContrast-Tokyo Night Storm Circle Fill-Weidows Modified
 SetLogonBackground=0
+BrandImage=%ResourceDir%\Themes\WeidowsPack\brand.png
 
 [Control Panel\Cursors]
 AppStarting=%ResourceDir%\Themes\WeidowsPack\[ÖÂÃÀ»¯] À­Ñï-°×\working.ani
