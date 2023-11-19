@@ -12,7 +12,7 @@
 
 ```
 scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
-scoop install
+scoop install Windows-Theme-HighContract-Tokyo-Night
 ```
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
