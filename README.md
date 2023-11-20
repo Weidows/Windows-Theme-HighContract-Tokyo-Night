@@ -10,6 +10,17 @@
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
+# Feature
+
+- [x] 一键安装
+  - [ ] 本来想用 .themepack 打包, 遇到点问题
+- [x] 原神音效
+- [x] 拉扬白光标
+- [x] 极高对比度
+  - [ ] 可惜系统对某些组件的显示效果支持不好
+
+---
+
 # 安装
 
 ## 手动
@@ -17,6 +28,8 @@
 下载 Release 中压缩包-解压-右键管理员模式运行 `install.bat`
 
 然后设置-个性化-主题里会出现新的主题, 点一下就 OK
+
+卸载的话, 同上运行 `uninstall.bat`
 
 ---
 
@@ -33,7 +46,7 @@ scoop install Windows-Theme-HighContract-Tokyo-Night
 
 > 请去支持各位原作者, 至少点个赞
 
-<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [https://www.bilibili.com/video/BV1Ls4y1B7mB](https://www.bilibili.com/video/BV1Ls4y1B7mB)
+<a name='cite_note-1' href='#cite_ref-1'>[1]</a>: [原神游戏音效选集：七圣召唤更新](https://www.bilibili.com/video/BV1Ls4y1B7mB)
 
 <a name='cite_note-2' href='#cite_ref-2'>[2]</a>: [拉扬白光标 - 图标指针 - 致美化](https://zhutix.com/ico/layan-white-cus/)
 
