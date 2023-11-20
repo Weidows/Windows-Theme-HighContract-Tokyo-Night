@@ -1,16 +1,53 @@
-# Preview
+---
+title: Windows-Theme-HighContract-Tokyo-Night
+password: ''
+tags:
+  - Windows
+  - theme
+katex: false
+comments: true
+aside: true
+date: 2023-11-20 17:08:04
+cover: https://vip.helloimg.com/images/2023/11/20/owlk10.png
+top_img:
+---
 
-[![owlUr5.png](https://vip.helloimg.com/images/2023/11/20/owlUr5.png)](https://www.helloimg.com/image/owlUr5)
+<!--
+ * @?: *********************************************************************
+ * @Author: Weidows
+ * @LastEditors: Weidows
+ * @LastEditTime: 2023-11-20 17:13:03
+ * @FilePath: \Windows-Theme-HighContract-Tokyo-Night\README.md
+ * @Description:
+ * @!: *********************************************************************
+-->
 
-[![owlrlm.png](https://vip.helloimg.com/images/2023/11/20/owlrlm.png)](https://www.helloimg.com/image/owlrlm)
+{% pullquote mindmap mindmap-sm %}
 
-[![owlk10.png](https://vip.helloimg.com/images/2023/11/20/owlk10.png)](https://www.helloimg.com/image/owlk10)
+- [Preview](#preview)
+- [Feature](#feature)
+- [安装](#安装)
+  - [手动](#手动)
+  - [Scoop](#scoop)
+- [借物表](#借物表)
 
-[![owluuT.png](https://vip.helloimg.com/images/2023/11/20/owluuT.png)](https://www.helloimg.com/image/owluuT)
+{% endpullquote %}
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
-# Feature
+## Preview
+
+![owlUr5.png](https://vip.helloimg.com/images/2023/11/20/owlUr5.png)
+
+![owlrlm.png](https://vip.helloimg.com/images/2023/11/20/owlrlm.png)
+
+![owlk10.png](https://vip.helloimg.com/images/2023/11/20/owlk10.png)
+
+![owluuT.png](https://vip.helloimg.com/images/2023/11/20/owluuT.png)
+
+<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
+
+## Feature
 
 - [x] 一键安装
   - [ ] 本来想用 .themepack 打包, 遇到点问题
@@ -21,9 +58,9 @@
 
 ---
 
-# 安装
+## 安装
 
-## 手动
+### 手动
 
 下载 Release 中压缩包-解压-右键管理员模式运行 `install.bat`
 
@@ -33,7 +70,7 @@
 
 ---
 
-## Scoop
+### Scoop
 
 ```
 scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
@@ -42,7 +79,7 @@ scoop install Windows-Theme-HighContract-Tokyo-Night
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
-# 借物表
+## 借物表
 
 > 请去支持各位原作者, 至少点个赞
 
