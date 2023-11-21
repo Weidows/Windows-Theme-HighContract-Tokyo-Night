@@ -1,5 +1,5 @@
 ---
-title: Windows-Theme-HighContract-Tokyo-Night
+title: 🏳️‍🌈Windows-Theme-HighContract-Tokyo-Night
 password: ''
 tags:
   - Windows
@@ -12,24 +12,27 @@ cover: https://vip.helloimg.com/images/2023/11/20/owlk10.png
 top_img:
 ---
 
+# Windows-Theme-HighContract-Tokyo-Night
+
 <!--
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2023-11-20 17:13:03
- * @FilePath: \Windows-Theme-HighContract-Tokyo-Night\README.md
+ * @LastEditTime: 2023-11-21 10:31:30
+ * @FilePath: \Blog-private\source\_posts\system\Windows-Theme-HighContract-Tokyo-Night\README.md
  * @Description:
  * @!: *********************************************************************
 -->
 
 {% pullquote mindmap mindmap-sm %}
 
-- [Preview](#preview)
-- [Feature](#feature)
-- [安装](#安装)
-  - [手动](#手动)
-  - [Scoop](#scoop)
-- [借物表](#借物表)
+- [Windows-Theme-HighContract-Tokyo-Night](#windows-theme-highcontract-tokyo-night)
+  - [Preview](#preview)
+  - [Feature](#feature)
+  - [安装](#安装)
+    - [手动](#手动)
+    - [Scoop](#scoop)
+  - [借物表](#借物表)
 
 {% endpullquote %}
 
