@@ -10,8 +10,6 @@ aside: true
 date: 2023-11-20 17:08:04
 cover: https://vip.helloimg.com/images/2023/11/20/owlk10.png
 top_img:
-created: 2023-11-20 01:34:38
-updated: 2023-12-06 18:07:14
 ---
 
 # Windows-Theme-HighContract-Tokyo-Night

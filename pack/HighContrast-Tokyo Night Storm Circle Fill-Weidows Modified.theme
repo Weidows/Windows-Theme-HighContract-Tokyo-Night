@@ -25,7 +25,7 @@ Wait=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\busy.ani
 DefaultValue=[致美化] 拉扬-白
 
 [Control Panel\Desktop]
-Wallpaper=
+Wallpaper=%ResourceDir%\Themes\WeidowsPack\Wallpaper\Default.jpg
 Pattern=
 MultimonBackgrounds=0
 PicturePosition=4
@@ -40,6 +40,7 @@ ColorizationColor=0XC42AC3DE
 AppMode=Dark
 SystemMode=Dark
 HighContrast=2
+VisualStyleVersion=10
 
 [boot]
 SCRNSAVE.EXE=
