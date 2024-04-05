@@ -1,4 +1,5 @@
 pack/WeidowsPack/*
+!pack/WeidowsPack/Wallpaper
 !pack/WeidowsPack/brand.png
 
 *.themepack

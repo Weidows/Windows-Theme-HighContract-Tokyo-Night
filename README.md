@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2023-12-06 19:03:43
+ * @LastEditTime: 2024-04-06 02:20:24
  * @FilePath: \Blog-private\source\_posts\system\Windows-Theme-HighContract-Tokyo-Night\README.md
  * @Description:
  * @!: *********************************************************************
@@ -40,7 +40,7 @@ top_img:
 
 ## Preview
 
-![owlUr5.png](https://vip.helloimg.com/images/2023/11/20/owlUr5.png)
+![T8Od9cACkyvN5le.png](https://s2.loli.net/2024/04/06/T8Od9cACkyvN5le.png)
 
 ![owlrlm.png](https://vip.helloimg.com/images/2023/11/20/owlrlm.png)
 
