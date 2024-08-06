@@ -8,7 +8,7 @@ katex: false
 comments: true
 aside: true
 date: 2023-11-20 17:08:04
-cover: https://vip.helloimg.com/images/2023/11/20/owlk10.png
+cover: https://pan.weidows.tech/d/local/blog/owlk10.png
 top_img:
 ---
 
@@ -18,7 +18,7 @@ top_img:
  * @?: *********************************************************************
  * @Author: Weidows
  * @LastEditors: Weidows
- * @LastEditTime: 2024-04-06 02:20:24
+ * @LastEditTime: 2024-08-06 15:44:32
  * @FilePath: \Blog-private\source\_posts\system\Windows-Theme-HighContract-Tokyo-Night\README.md
  * @Description:
  * @!: *********************************************************************
@@ -40,13 +40,11 @@ top_img:
 
 ## Preview
 
-![T8Od9cACkyvN5le.png](https://s2.loli.net/2024/04/06/T8Od9cACkyvN5le.png)
+![owlrlm.png](https://pan.weidows.tech/d/local/blog/owlrlm.png)
 
-![owlrlm.png](https://vip.helloimg.com/images/2023/11/20/owlrlm.png)
+![owlk10.png](https://pan.weidows.tech/d/local/blog/owlk10.png)
 
-![owlk10.png](https://vip.helloimg.com/images/2023/11/20/owlk10.png)
-
-![owluuT.png](https://vip.helloimg.com/images/2023/11/20/owluuT.png)
+![owluuT.png](https://pan.weidows.tech/d/local/blog/owluuT.png)
 
 <a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
 
