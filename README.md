@@ -36,7 +36,7 @@ top_img:
 
 {% endpullquote %}
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
+<a>![分割线](https://pan.weidows.tech/d/local/img/divider.png)</a>
 
 ## Preview
 
@@ -46,7 +46,7 @@ top_img:
 
 ![owluuT.png](https://pan.weidows.tech/d/local/blog/owluuT.png)
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
+<a>![分割线](https://pan.weidows.tech/d/local/img/divider.png)</a>
 
 ## Feature
 
@@ -78,7 +78,7 @@ scoop bucket add apps https://github.com/kkzzhizhou/scoop-apps
 scoop install Windows-Theme-HighContract-Tokyo-Night
 ```
 
-<a>![分割线](https://cdn.jsdelivr.net/gh/Weidows/Weidows/image/divider.png)</a>
+<a>![分割线](https://pan.weidows.tech/d/local/img/divider.png)</a>
 
 ## 借物表
 
