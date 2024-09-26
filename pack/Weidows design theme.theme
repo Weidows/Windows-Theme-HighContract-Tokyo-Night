@@ -1,10 +1,8 @@
 ; Copyright ?Weidows.
 
 [Theme]
-; Windows - IDS_THEME_DISPLAYNAME_Tokyo Night Storm Circle Fill
-DisplayName=HighContrast-Tokyo Night Storm Circle Fill-Weidows Modified
+DisplayName=Weidows design theme
 SetLogonBackground=0
-BrandImage=%ResourceDir%\Themes\WeidowsPack\brand.png
 
 [Control Panel\Cursors]
 AppStarting=%ResourceDir%\Themes\WeidowsPack\[致美化] 拉扬-白\working.ani
@@ -29,17 +27,18 @@ Wallpaper=%ResourceDir%\Themes\WeidowsPack\Wallpaper\Default.jpg
 Pattern=
 MultimonBackgrounds=0
 PicturePosition=4
+WallpaperWriteTime=133558521604982388
 WindowsSpotlight=0
 
 [VisualStyles]
-Path=%ResourceDir%\Themes\WeidowsPack\Tokyo Night Storm Circle Fill.msstyles
+Path=%ResourceDir%\Themes\WeidowsPack\Goruda.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0
-ColorizationColor=0XC42AC3DE
+ColorizationColor=0XC4EA005E
 AppMode=Dark
 SystemMode=Dark
-HighContrast=2
+; HighContrast=2
 VisualStyleVersion=10
 
 [boot]
@@ -133,44 +132,37 @@ DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collect
 [AppEvents\Schemes\Apps\Explorer\SecurityBand]
 DefaultValue=%ResourceDir%\Themes\WeidowsPack\Genshin Impact Short Sound Collection\Genshin Impact [TabClick 3].wav
 
-[Slideshow]
-Interval=
-Shuffle=
-ImagesRootPath=
-
+; https://learn.microsoft.com/zh-cn/windows/win32/controls/themesfileformat-overview#control-panelcolors-section
 [Control Panel\Colors]
 ActiveTitle=134 140 255
-; Background=36 36 36 桌面背景
 Background=0 0 0
 ButtonFace=36 36 36
-ButtonText=255 238 50
+; ButtonText=255 238 50 金色
+ButtonText=255 28 45
 GrayText=166 166 166
 Hilight=253 44 190
-HilightText=255 255 255
+HilightText=0 152 255
 HotTrackingColor=35 249 255
 InactiveTitle=166 166 166
-InactiveTitleText=0 0 0
-TitleText=0 0 0
-; Window=0 0 0
+InactiveTitleText=36 36 36
+TitleText=50 255 135
 Window=36 36 36
 WindowText=23 212 17
 Scrollbar=0 0 0
-; Menu=36 36 36
-Menu=0 0 0
-WindowFrame=255 255 255
-MenuText=255 255 255e
+Menu=36 36 36
+WindowFrame=128 128 128
+MenuText=255 28 45
 ActiveBorder=255 255 0
 InactiveBorder=0 128 0
-; AppWorkspace=36 36 36
-AppWorkspace=0 0 0
+AppWorkspace=36 36 36
 ButtonShadow=128 128 128
 ButtonHilight=192 192 192
-ButtonDkShadow=255 255 255
-ButtonLight=255 255 255
-InfoText=255 255 255
+ButtonDkShadow=64 64 64
+ButtonLight=0 0 0
+InfoText=255 28 45
 ; InfoWindow=36 36 36
 InfoWindow=0 0 0
-ButtonAlternateFace=192 192 192
+; ButtonAlternateFace=192 192 192
 GradientActiveTitle=128 0 128
 GradientInactiveTitle=0 128 0
 MenuHilight=128 0 128
